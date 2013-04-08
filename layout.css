@@ -1,21 +1,29 @@
 html,body {
-	background: #ECECEC;
+	background: #FEFEFF;
 }
 h1 {
 	font-family: "Helvetica Neue", Helvetica, Arial;
 	font-weight: 200;
-	color: #BBBBBB;
+	color: #AAAAAA;
 	margin: 50px 0 0 150px;
-	font-size: 150px;
+	font-size: 50px;
 }
 a {
 	font-family: "Helvetica Neue", Helvetica, Arial;
 	font-weight: 900;
-	color: #005791;
+	color: #CCCCCC;
 	margin: 10px 0 0 150px;
-	font-size: 60px;
+	font-size: 30px;
 	text-decoration:none;
 }
 a:hover {
-	color:#000000;
+	color:#BBBBBB;
+}
+img.profilbild {
+	border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	position:absolute;
+	bottom: 30px;
+	right: 30px;
 }

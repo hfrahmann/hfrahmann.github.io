@@ -1,6 +1,6 @@
-hfrahmann.github.com
+hfrahmann.github.io
 ====================
 
-my github page.
+My github page.
 
-http://hfrahmann.github.com/
+http://hfrahmann.github.io/
