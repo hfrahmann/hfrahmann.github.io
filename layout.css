@@ -1,33 +1,4 @@
 html,body {
-<<<<<<< HEAD
-	background: #FEFEFF;
-}
-h1 {
-	font-family: "Helvetica Neue", Helvetica, Arial;
-	font-weight: 200;
-	color: #AAAAAA;
-	margin: 50px 0 0 150px;
-	font-size: 50px;
-}
-a {
-	font-family: "Helvetica Neue", Helvetica, Arial;
-	font-weight: 900;
-	color: #CCCCCC;
-	margin: 10px 0 0 150px;
-	font-size: 30px;
-	text-decoration:none;
-}
-a:hover {
-	color:#BBBBBB;
-}
-img.profilbild {
-	border-radius: 100%;
-	-moz-border-radius: 100%;
-	-webkit-border-radius: 100%;
-	position:absolute;
-	bottom: 30px;
-	right: 30px;
-=======
 	background-color: #353535;
     background-image: url(background.jpg);
     background-position: center;
@@ -47,7 +18,7 @@ div.content {
     width: 350px;
     box-shadow: 3px 3px 12px rgba(0,0,0,0.5);
     margin: 100px auto 0px auto;
-    padding-bottom: 15px;
+    padding-bottom: 12px;
 }
 
 h1.title {
@@ -100,5 +71,4 @@ ul.menu > li > span.separator {
         min-width: 160px;
         border-radius: 5px;
     }
->>>>>>> update
 }
